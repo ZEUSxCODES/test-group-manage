@@ -32,7 +32,7 @@ Your donation might also me get me a new feature or two, which I wasn't able to 
 
 All the fund would be put into my services such as database, storage and hosting!
 
-You can donate by contacting my owner: [ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!](https://te.legra.ph/Donate-Us-03-15)
+You can donate by contacting my owner: [𝕄𝕊-𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://t.me/MS_Samad)
      """
 
     LOGGER.info(f"{m.from_user.id} fetched donation text in {m.chat.id}")
